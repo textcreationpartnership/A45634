@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true copy of a letter from Mr. Harris and Mr. Annesley, two of the East-India-Companies council, left at Surrat by their General, Sir John Child, Barronet, when he and the rest of the English nation departed the Indian shoar [sic], and retired to Bombay to begin the late war against the Great Mogul and his subjects</title>
+            <author>Harris, B. (Bartholomew)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45634</idno>
+            <idno type="STC">Wing H838</idno>
+            <idno type="STC">ESTC R13951</idno>
+            <idno type="EEBO-CITATION">13138953</idno>
+            <idno type="OCLC">ocm 13138953</idno>
+            <idno type="VID">97960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 420:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true copy of a letter from Mr. Harris and Mr. Annesley, two of the East-India-Companies council, left at Surrat by their General, Sir John Child, Barronet, when he and the rest of the English nation departed the Indian shoar [sic], and retired to Bombay to begin the late war against the Great Mogul and his subjects</title>
+                  <author>Harris, B. (Bartholomew)</author>
+                  <author>Annesley, Samuel.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Tidmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Bart. Harris, Samuel Annesley, Surrat, Dec. 25th, 1687. Relative to the negotiations for peace with the Great Mogul.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Windsor, July 30th, 1688. This may be printed, Middleton"</note>
+                  <note>Advertisement: p. 6.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Records and correspondence.</term>
+               <term>Mogul Empire --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:97960:1" rendition="simple:additions"/>
+            <head>THE TRUE COPY OF A LETTER From Mr. <hi>Harris,</hi> and Mr. <hi>Anneſley,</hi> TWO OF THE <hi>Eaſt-India-Companies</hi> COUNCIL, Left at <hi>S<g ref="char:V">Ʋ</g>RRAT</hi> by their General Sir <hi>John Child</hi> Barronet, when he and the reſt of the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Nation Departed the <hi>Indian</hi> Shoar, and Retired to <hi>Bombay</hi> to begin the late War againſt the <hi>Great Mogul</hi> and his Subjects.</head>
+            <p>
+               <hi>Windſor, July</hi> 30th 1688</p>
+            <p>This may be Printed, <hi>MIDDLETON.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>May it pleaſe Your Excellency,</hi> &amp;c.</salute>
+                  </opener>
+                  <p>IN our laſt we adviſed Your Excellency, <hi>&amp;c.</hi> of <hi>Muctear Cauns</hi> ſending for <hi>Kiſſo</hi> and <hi>Vittull Parrack,</hi> who accordingly went from hence the <hi>22th</hi> Inſtant, and the next day they met him in his way coming to <hi>Bardoly;</hi> upon his being acquainted who they were, he immediately ſtopt his Horſe, and cauſing them to come near him
+<pb n="2" facs="tcp:97960:2"/>after they had made their Obeyſance, they preſented him with Five Soonaes, and Nine Rupees, which having took he ſpoke mighty kindly to them, telling them he was come on purpoſe to make an end of our Buſineſs, and if it pleaſed God, he would ſpeedily do it to all their Contents; and after ſome ſuch like Diſcourſe he proceeded: After him his <hi>Begum</hi> with all her Female Attendants (who it ſeems concerns her ſelf very much in her Husbands, and State Affairs,) be<g ref="char:EOLhyphen"/>ing acquainted by her Eunuch that our Brokers were there, likewiſe made a ſtop, and calling them nearer, (after they had made their Pre<g ref="char:EOLhyphen"/>ſent of Fourteen Rupees, and paid their Reſpects,) the told them, ſhe had underſtood our Buſineſs, and ſhe would take care of it, bidding them ſend for the Ships, and ſo calling for ſome Beetle for them, the Eunuch told her it was a great way behind, but ſhe would not ſtir till they brought them ſome, which being given them, ſhe likewiſe proceeded on her way. When they were at <hi>Bardoly</hi> the Governour ſent for our Brokers again, and diſcourſed them a long time very kindly, giving them great proteſtations of his Friendſhip to your. Excellency and our Nation, and having been pre-acquainted of our being here by <hi>Mirza Moſum Gelleeree</hi> (at whoſe Houſe your Excel<g ref="char:EOLhyphen"/>lency lay when at <hi>Oorpaur,</hi> where <hi>Cartallaub Caun</hi> gave your Excel<g ref="char:EOLhyphen"/>lency a Viſit;) He gave each of them a Veſt, and ordered them to return ſo ſoon as poſſible to <hi>Surrat,</hi> and bring us to him; and ac<g ref="char:EOLhyphen"/>cordingly they travelled in the Night, and came to us Yeſterday Morning, and acquainted us with all the foregoing particulars, and of his kind Invitation of us to him. After due Conſideration we reſolved to Go, and judging it unadviſable to go before him with<g ref="char:EOLhyphen"/>out ſome handſome Preſent, and being unprovided of any thing of our own growth, we procured a pair of Pearl Drops, to the Value of Four Hundred Rupees, which we carryed with us, and putting our ſelves in the beſt Equipage we could, we ſet out about Noon, and arrived at the place where the Governour had pitched his Tents about Three a Clock, and had immediate Admittance to him, where we were extraordinary kindly Received; and having made our Preſent, he Entertained us with many Diſcourſes of Kindneſs, and that he would certainly Redreſs all our Grievances; and asked Us what he ſhould do to ſatisfie your Excellency, and bring you up to <hi>Surrat,</hi> We anſwered him, That when his Lordſhip came to <hi>Surrat,</hi> we would make bold to make our Deſires further known to him, and that your Excellen<g ref="char:EOLhyphen"/>cy deſired nothing more ardently than a firm Amity and Friendſhip with His Majeſty and Lordſhip, with ſome other requiſite Comple<g ref="char:EOLhyphen"/>ments: But he preſſed yet further, to know what he could do ther to ſatisfie your Excellency, <hi>&amp;c.</hi> Whereupon we ſeeing a great ma<g ref="char:EOLhyphen"/>ny People in his Tent, ſtrove to wave coming to any particular Diſ<g ref="char:EOLhyphen"/>courſe, but he being ſtill urgent on the ſame; We then cauſed our Bro<g ref="char:EOLhyphen"/>ker to crave the favour of his Lordſhip of Privacy with him, which ſo ſoon as mentioned, he cauſed all to depart, only his <hi>Duwan,</hi> and this <hi>Mirza Moſum Gelleeree,</hi> (who it ſeems is much in his Favour, and hath very much his Ear,) and then expecting our Anſwer, we told him that your Excellency had repreſented your Grievances and De<g ref="char:EOLhyphen"/>ſires to His Majeſty in Thirty Five Articles, (which he pretended he had not ſeen, and ſo demanded them) which being granted, your Ex<g ref="char:EOLhyphen"/>cellency,
+<pb n="3" facs="tcp:97960:2"/>
+                     <hi>&amp;c.</hi> would be enabled to follow their Merchandizing, and live peaceably in his Country as formerly; he read them over diſtinct<g ref="char:EOLhyphen"/>ly, and then diſcourſed on them, and he ſaid he muſt have your Ex<g ref="char:EOLhyphen"/>cellency come up to <hi>Swally,</hi> and then there ſhould be nothing you could deſire but ſhould be granted, and we muſt write and contrive ſome way that your Excellency may come up. We inſiſted upon ſome Effect on his Lordſhips ſide; whereupon he asked what he could do for our preſent ſatisfaction, we motioned the delivering up of <hi>Boucher,</hi> &amp;c. to be delivered up to us to be ſent down to your Ex<g ref="char:EOLhyphen"/>cellency, <hi>&amp;c.</hi> which if he did, 'twould be a great inducement to your Excellency, <hi>&amp;c.</hi> to believe the reality of the King's, and his Lordſhips Love towards us; whereupon We had long Diſcourſe upon that Article, and we giving him a full Account of all relating to <hi>Boucher,</hi> and further repreſenting to him of how great Import and Concern it was to the Right Honourable Company to have a full Complyance with that Article, and to be made true Maſters of all their Servants, without which they could not trade with any ſecurity, but were lia<g ref="char:EOLhyphen"/>ble to be cheated and abuſed daily; which his Lordſhip did acknow<g ref="char:EOLhyphen"/>ledge to be true, and that it was but reaſon it ſhould be ſo: But for <hi>Boucher's</hi> Caſe, he ſaid the King and he underſtood it different from what we now repreſented it to him, therefore before he could deliver him, he muſt write again to His Majeſty, and take His further Or<g ref="char:EOLhyphen"/>ders about it; but his Lordſhip did aſſure us that he would write in that manner that His Majeſty ſhould not deny us That alſo: And for the reſt of the Articles he ſwore, and made a great many Proteſtati<g ref="char:EOLhyphen"/>ons, that they ſhould be fully complyed with to your Excellencies, <hi>&amp;c.</hi> full ſatisfaction; That he took them upon his Head, and ſo long as he had Life he would ſee them punctually performed, and then took <hi>Bartholomew Harris's</hi> Hand in his, and ſaid, as he deſired God's Bleſſing on him and his, ſo truly would he ſee a true performance of thoſe Ar<g ref="char:EOLhyphen"/>ticles, which he took up in his other Hand; and for a further proof of my ſincerity, (ſaid he) I do here ſwear to the ſame by our Prophet <hi>Mahomet</hi> whom I Worſhip, and by Jeſus Chriſt whom you adore, that I will perform what I here ſay. And indeed he ſpoke all with a great deal of freeneſs and ſincerity, as much as poſſibly could be de<g ref="char:EOLhyphen"/>ſired; inſomuch that we muſt needs acknowledge, that we could not perceive the leaſt Diſſimulation in him, and in what he ſaid; and fur<g ref="char:EOLhyphen"/>ther we cannot go, it being God alone who knows the Heart. After this he gave to <hi>Bartholomew Harris</hi> a very handſom Veſt, a Horſe with a Silver Head-ſtall; and to <hi>Samuel Anneſly</hi> a Piece of <hi>Atlas,</hi> and ſo in the Evening ſent us away, and about Nine of the Clock we returned to the Factory. And now having given your Excellency, <hi>&amp;c.</hi> an Ac<g ref="char:EOLhyphen"/>count of our meeting with the new Governour, we ſhall moſt hum<g ref="char:EOLhyphen"/>bly deſire your Excellency, <hi>&amp;c.</hi> to be pleaſed moſt ſeriouſly to conſi<g ref="char:EOLhyphen"/>der all, how far the King hath condeſcended to the Redreſſing of all your Excellencies, <hi>&amp;c.</hi> Grievances, by ſending a Perſon nearly Related to Himſelf, being of the Royal Family, whoſe Father your Excellency, and we all know hath ſignalized himſelf in ſeveral great Govern<g ref="char:EOLhyphen"/>ments and Imployes in our Memory, and always had the ſingular good Repute of a very Honourable and Worthy Lord, a Lover of Strangers, which <hi>Pettit</hi> knowing (as your Excellency may remember) was the
+<pb n="4" facs="tcp:97960:3"/>Cauſe he made his Addreſſes to him; and for this his Son your Ex<g ref="char:EOLhyphen"/>cellency knows that the Profits of <hi>Surrat</hi> Government are too ſmall for the Maintenance and Retinue of ſo great a Perſon; as he himſelf was pleaſed to ſay, that all the World knew he wanted not Riches nor Honour from his Prince, but his undertaking this Buſineſs was to raiſe the Name of the Family higher, that by bringing this Work to an Happy Iſſue, he might be remembred by Strangers as well as others, many Years after his Death, and taking hold of his Beard (al<g ref="char:EOLhyphen"/>moſt quite Grey) ſaid, how long have I to live? And what elſe have I to do but ſuch good Actions as this, that God might be Gracious to him hereafter. He ſeems to be mighty Religious, making God the Author of all; ſaying often, it is not he that ſhall do this Work for us, but God. Further be pleaſed to conſider the great weight of your Excellencies, <hi>&amp;c.</hi> Thirty Five Articles, that without your Excellencies own Perſon in this Buſineſs it cannot be brought to that hopeful Iſſue as may be deſired, and at the Diſtance your Excellency and his Lordſhip is at preſent to enter into a Treaty between you: Your Excellency, <hi>&amp;c.</hi> cannot but be ſenſible will be a vaſt Expence of Time, and a Thouſand other ill Conſequences may attend it far more than can be fore-ſeen in your Excellencies doing, (as your Excellency, <hi>&amp;c.</hi> can order it) what is now deſired of your Excellencies coming up to <hi>Swalley,</hi> or the <hi>Barrs</hi> foot of this River, where your Excellency, <hi>&amp;c.</hi> ſhall think beſt for your ſecurity, (only that your Excellency may be near) touching which he was pleaſed to ſay, that in the Invitation he intends to ſend your Excellency, he will ſend you in his Letter the print of his Hand, which to him, ſhall be as Binding, and of as great Force as if he had put his own Hand into your Excellencies: That no ill is intended to your Excellency, and this his Promiſe in our Diſcourſe with him pro<g ref="char:EOLhyphen"/>ceeded from this his Enquiring of your Excellency, and if your Excel<g ref="char:EOLhyphen"/>lency had not been acquainted of his coming to this Government, and if your Excellency had not wrote, and being anſwered that we were not wanting in our Advices, but there having been ſuch divers Re<g ref="char:EOLhyphen"/>ports, that it could not yet be expected that your Excellencies Anſwer ſhould come to our late Advices of his Lordſhips certain approach to<g ref="char:EOLhyphen"/>wards this Government, which was the Cauſe your Excellency had not made your Addreſſes, but were in dayly expectation of them; whereupon he adviſed that there ſhould in your Excellencies Name be made ſome little Addreſs of Welcome and the like, and ſend it him in publick on Tueſday next when he ſhould be in Town, and then we ſhould ſee what Anſwer he ſhould return, and what Aſſurances he would give your Excellency alſo of his Friendſhip, <hi>&amp;c.</hi> as a<g ref="char:EOLhyphen"/>bove-ſpecified; which Buſineſs of the Letter is now under our Conſideration, but we hope to receive ſome Directions from your Excellency, <hi>&amp;c.</hi> e're that, for our better Government: So that your Excellency, <hi>&amp;c.</hi> may expect to hear further from us e're long: If under all theſe fair Leaves, there doth yet lye ſome deadly Snake it would be much to our wonder, but we think it cannot be; More could be ſaid on this Point of your Excellencies coming up but not to be too prolix, and knowing to whom we Write, ſhall ſubmit all to your Excellencies, &amp;c. far more ſublime Judgments, with this Aſſu<g ref="char:EOLhyphen"/>rance that what is here wrote is the pure product of our moſt real zeal
+<pb n="5" facs="tcp:97960:3"/>for the intereſt of our Right Honourable Maſters and the general wel<g ref="char:EOLhyphen"/>fare of us all. His Excellencies perſon is ſo dear to us (as in duty it ought) that did we in the leaſt think that there was any danger of him any more than what belongs to the Sea, we would never offer to preſume to ſet Pen to Paper to adviſe the ſame; and that we may not be miſ-underſtood we do ſay, that it is moſt requiſite prudence that your Excellency, &amp;c. ſtand yet upon a moſt ſtrict guard, and if your Excellency ſhall judge fitting to come up, that it be with what Sea Forces poſſibly can be made, and with all requiſite ſplendor; And of our ſelves (foreſeeing one Objection) we have made ſome little inſpection in it, and ſhall anſwer it, which is this, That his Lordſhip ſeems too forward in this buſineſs in haſtning it ſo much: To which we are ad<g ref="char:EOLhyphen"/>viſed (as before intimated) this Government is too ſmall for him, and is in expectation of being <hi>Subau</hi> of <hi>Goozurrat,</hi> and ſo to leave his Son here when he hath done this buſineſs, and himſelf go to <hi>Ahmadavad,</hi> and this ſeems to us ſomewhat conſonant to Reaſon, and Honourable. One main point more had almoſt ſlip't our memory, which is this, about his Aſſurances his Lordſhip gave us from His Majeſty that we ſhould pay but two <hi>per Cent.</hi> Cuſtom, which aroſe from our telling him that you were ſending up ſome Money and Goods; upon which he an<g ref="char:EOLhyphen"/>ſwered as above, that we ſhould pay no more, and that if they did come he would ſecure them to the Right Honourable Companies Facto<g ref="char:EOLhyphen"/>ry, but he had rather your Excellency, <hi>&amp;c.</hi> ſhould forbear till his Excellency came up himſelf; We hope what we have hitherto done may meet with your Excellencies, <hi>&amp;c.</hi> Approbation, and ſhall con<g ref="char:EOLhyphen"/>clude this our Relation with this, That indeed it may be much admired with what extraordinary Courteſie and Freedom his Lordſhip entertain<g ref="char:EOLhyphen"/>ed us, cauſing us to ſit down cloſe before him (which your Excellen<g ref="char:EOLhyphen"/>cy, <hi>&amp;c.</hi> knows is unuſual in ſuch great Men) moſt part of the time we were diſcourſing him, which we judged was upward of two hours, in which he ſhewed to be much pleaſed with us, and all his proteſtati<g ref="char:EOLhyphen"/>ons and the like Teſtimonies of his Favour. We received with all due reſpects and ſubmiſſion, which being the ſubſtance of our Yeſterdays Tranſactions, and what we can at preſent call to mind, we in all Humility with the tender of our beſt ſervices, ſubſcribe</p>
+                  <closer>
+                     <dateline>
+                        <hi>Surrat,</hi> 
+                        <date>
+                           <hi>Dec. 25th.</hi> 1687.</date>
+                     </dateline>
+                     <signed>Your Excellencies, <hi>&amp;c. Moſt Humble and Moſt Obedient Servants, Bart. Harris. Samuel Anneſley.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:97960:4"/>
+            <p>SOme few dayes after Receit of the former Letter, the Engliſh General Received another Letter from the aforeſaid two Perſons of his Council, intimating that the ſaid Prince or great Lord <hi>Muctear Caun</hi> was ſending two Envoys unto him to <hi>Bombay;</hi> for whom the General ſent a Noble Barge or Gally to bring them from the neareſt part of the Main to <hi>Bombay,</hi> and Received them with the greateſt Ho<g ref="char:EOLhyphen"/>nour and Reſpect. They preſented the General from the ſaid Prince or Lord an exceeding courteous Letter, inviting him to <hi>Swalley</hi> to put an end to all differences, which Let<g ref="char:EOLhyphen"/>ter beſides the ſaid great Lord's <hi>Chop</hi> (or common Signa<g ref="char:EOLhyphen"/>ture) had the Print of his hand in <hi>Saffron,</hi> which is the greateſt Aſſurance of Honour and Veracity that any Prince in the <hi>East,</hi> of the Mahometan perſwaſion can make or give. The General Received the Letter with the accuſto<g ref="char:EOLhyphen"/>mary Ceremony to Letters Received from ſuch great Princes, but told the Envoys he was at preſent engaged in diſpatching another Ship for <hi>England,</hi> but he would con<g ref="char:EOLhyphen"/>ſider of the Peace propoſed and return a ſpeedy anſwer, <hi>&amp;c.</hi> So that upon the whole matter the <hi>Eaſt-India Company</hi> do Conclude, there is an Honourable Concluſion made of that War, long ſince occaſioned by the unnatural and perni<g ref="char:EOLhyphen"/>tious attempts of Interlopers, and that Peace may continue between the <hi>Mogul</hi> and the Company, upon fair and juſt Terms for as many Ages as it did before, which was near a Hundred Years.</p>
+            <p>The Company have likewiſe Information by the Paſſen<g ref="char:EOLhyphen"/>gers come home on the <hi>Succeſs,</hi> That there have been two great Inſurrections of the common People at <hi>Battee</hi> near <hi>Surrat,</hi> and one in the City of <hi>Surrat,</hi> demanding the Old Governours Head, for abuſing the <hi>Engliſh;</hi> and a preſent Peace, without which they ſay they muſt all ſtarve.</p>
+         </div>
+         <div type="publishers_note">
+            <p>THere will in a Short time be Publiſhed a Brief Hiſtory of the Riſe, Progreſs and Succeſs of the Engliſh <hi>Eaſt-India</hi> Companies Wars againſt the great <hi>Mogul</hi> and the King of <hi>Syam</hi> and Their Subjects.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Samuel Tidmarſh, <hi>at the</hi> Kings-Head <hi>in</hi> Cornhil, <hi>near the</hi> Royal Exchange, <hi>1688.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
